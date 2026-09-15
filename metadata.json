@@ -1,0 +1,6 @@
+{
+  "name": "Student Care Management",
+  "description": "Modern AI-powered student care management platform featuring task prioritization, care plans, progress analytics, and intelligent student support assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
